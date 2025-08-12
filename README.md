@@ -1,12 +1,12 @@
-# 📊 Amazon Sales Dashboard - Power BI Project
+# Amazon Sales Dashboard - Power BI Project
 
-## 📌 Project Overview
+##  Project Overview
 
 This project showcases an **interactive Amazon Sales Dashboard** built in **Power BI**, designed to analyze and visualize sales performance across categories, regions, and shipping modes. The dashboard provides actionable insights for strategic decision-making in e-commerce.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze sales performance by **category**, **segment**, and **region**.
 * Identify the **most profitable sub-categories** and sales trends over time.
@@ -15,7 +15,7 @@ This project showcases an **interactive Amazon Sales Dashboard** built in **Powe
 
 ---
 
-## 📈 Key Features
+## Key Features
 
 * **Interactive Filters**: Region, year, and category selection.
 * **Geo Distribution Map**: Visualizing sales across the United States.
@@ -25,7 +25,7 @@ This project showcases an **interactive Amazon Sales Dashboard** built in **Powe
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 * **Power BI** – Data modeling, visualization, and DAX calculations.
 * **Microsoft Excel** – Data cleaning and preparation.
@@ -33,12 +33,12 @@ This project showcases an **interactive Amazon Sales Dashboard** built in **Powe
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 <img width="1309" height="731" alt="image" src="https://github.com/user-attachments/assets/9ef2842d-d355-4187-8978-7ebfd1f0ee2e" />
 
 ---
 
-## 🚀 Insights & Outcomes
+##  Insights & Outcomes
 
 * **Standard Class shipping** accounts for 60% of orders, but with lower profit margins compared to First Class.
 * **The technology category** generates the highest sales, while **Copiers** lead in profitability.
@@ -46,7 +46,7 @@ This project showcases an **interactive Amazon Sales Dashboard** built in **Powe
 
 ---
 
-## 📂 Files in this Repository
+##  Files in this Repository
 
 * `Power BI Amazon Sales Dashboard.pbix` → Power BI file.
 * `Sales Report Power BI Dashboard.png` → Screenshot of the dashboard.
@@ -55,7 +55,7 @@ This project showcases an **interactive Amazon Sales Dashboard** built in **Powe
 
 ---
 
-## 📬 Contact
+##  Contact
 
 **Mahek Modi**
 📧 [mahekmodi012@gmail.com](mailto:mahekmodi012@gmail.com)
