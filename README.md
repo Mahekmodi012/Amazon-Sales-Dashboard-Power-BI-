@@ -59,4 +59,4 @@ This project showcases an **interactive Amazon Sales Dashboard** built in **Powe
 
 **Mahek Modi**
 📧 [mahekmodi012@gmail.com](mailto:mahekmodi012@gmail.com)
-🔗 [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN-HERE](https://www.linkedin.com/in/mahekjigneshmodi/))
+🔗 [LinkedIn](https://www.linkedin.com/in/mahekjigneshmodi/)
